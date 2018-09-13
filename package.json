@@ -1,0 +1,29 @@
+{
+  "name": "vishwas-api",
+  "version": "1.0.0",
+  "description": "Apis for vishwas - the voting app'",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hypermine-bc/vishwas-api.git"
+  },
+  "keywords": [
+    "e-voting",
+    "blockchain",
+    "etheruem",
+    "smart",
+    "contract"
+  ],
+  "author": "Vishwas B Anand",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hypermine-bc/vishwas-api/issues"
+  },
+  "homepage": "https://github.com/hypermine-bc/vishwas-api#readme"
+}
